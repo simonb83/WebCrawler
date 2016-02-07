@@ -1,0 +1,10 @@
+###Web Crawler written in PHP
+2012-2013
+
+Created for Recruiting Startup in Mexico
+
+Would work as job postings aggregator, crawling other sites for job advertisements, and storing details in Database to enable candidates to search by keyword etc.
+
+Inspired by https://blog.saush.com/2009/03/17/write-an-internet-search-engine-with-200-lines-of-ruby-code/
+
+Never deployed in production.
